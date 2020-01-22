@@ -157,6 +157,7 @@ img{
     100%{
         width: 5%;
         opacity: 0%;
+        filter: opacity(0%);
     }
 }
 
